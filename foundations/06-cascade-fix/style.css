@@ -13,7 +13,7 @@ body {
   font-weight: 800;
 }
 
-.para {
+#para {
   font-size: 22px;
 }
 
@@ -23,7 +23,7 @@ body {
   font-weight: bold;
 } 
 
-.button {
+#button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
@@ -31,12 +31,12 @@ body {
 
 .child {
   color: rgb(0, 0, 0);
-  font-weight: 800;
+  font-weight: bold;
   font-size: 14px;
 }
 
-div.text {
+div #text {
   color: rgb(0, 0, 0);
   font-size: 22px;
-  font-weight: 100;
+  font-weight:100;
 }
